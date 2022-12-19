@@ -1,0 +1,16 @@
+﻿  Enemy.cpp
+  game.cpp
+C:\Users\georg\Desktop\Pong\Pong\game.cpp(101,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\georg\Desktop\Pong\Pong\game.cpp(101,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\georg\Desktop\Pong\Pong\game.cpp(100,9): warning C4102: 'graphics': unreferenced label
+  gameobject.cpp
+  main.cpp
+  player.cpp
+  util.cpp
+C:\Users\georg\Desktop\Pong\Pong\util.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\georg\Desktop\Pong\Pong\util.cpp(17,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\georg\Desktop\Pong\Pong\util.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\georg\Desktop\Pong\Pong\util.cpp(28,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\georg\Desktop\Pong\Pong\util.cpp(29,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Pong.vcxproj -> C:\Users\georg\Desktop\Pong\bin\Pongd.exe
